@@ -1,4 +1,4 @@
-# -Azure_UserDataProcessingAPI
+# Azure_UserDataProcessingAPI
   # Azure_UserDataProcessingAPI
 
 This repository contains the code for a serverless application built on Azure Functions that processes user data.
